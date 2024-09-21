@@ -2,7 +2,7 @@
   title: 'Basecamp',
   
   custom_action: true,
-
+  
   connection: {
     fields: [
       {
